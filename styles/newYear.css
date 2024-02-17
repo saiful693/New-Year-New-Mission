@@ -354,3 +354,68 @@ form button {
     border-radius: 0px 50px 50px 0px;
     background: #F00;
 }
+
+/* footer styles */
+footer {
+    height: 609px;
+    margin-top: 140px;
+    background: #070211;
+}
+
+.address-section {
+    padding: 120px 140px 0px 140px;
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.address-section p {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.address-section small {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    padding-left: 10px;
+
+}
+
+.address-section img {
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.phone-website {
+    padding-right: 151px;
+}
+
+.horizontal {
+    padding: 50px 140px;
+    
+}
+.horizontal hr{
+    border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.social-icon {
+    text-align: center;
+}
+
+.social-icon a {
+    padding-right: 24px;
+}
+.rights{
+    padding: 50px 140px 0px 140px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.rights small {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+}
