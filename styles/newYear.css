@@ -68,13 +68,14 @@
 /* sheard styles */
 header {
     margin: 50px 140px;
-    height: 600px;
+    height: 700px;
     background-image: url('../images/Banner\ Image.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 16px;
     /* background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); */
+    background: (180deg, RGB(7, 2, 17) 0%, RGB(7, 2, 17) 100%)
 
 }
 
@@ -100,10 +101,9 @@ main {
     margin: 100px 140px;
 }
 
-.parcent-off {
+.parcent-off{
     margin-top: 20px;
 }
-
 .section-title {
     color: #F00;
     text-align: center;
@@ -129,7 +129,7 @@ main {
 
 #new-year-img {
     margin-top: 45px;
-    margin-left: 260px;
+    margin-left: 300px;
     align-items: center;
 }
 
