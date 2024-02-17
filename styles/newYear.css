@@ -364,8 +364,17 @@ main {
 
 .portfolio-imgs img {
     width: 33%;
+    padding-left: 2px;
     border-radius: 16px;
 }
+
+.portfolio-imgs img:hover{
+    width: 30%;
+    padding: 0px;
+    border: 2px solid greenyellow;
+    
+}
+
 
 /* subscribe styles*/
 .subscribe {
